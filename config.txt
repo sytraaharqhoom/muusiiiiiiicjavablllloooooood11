@@ -1,5 +1,5 @@
-token=process.env.BOT_TOKEN
-owner=337457211875917834 
+token=NDk3ODg5MzE1NzI5MTc4NjM1.DpmSdw.pnrbUbrZukGtRwj0w0UpqpI-vtk
+owner=469546024839413764 
 prefix=1
 game=Type 1play
 stayinchannel=true
