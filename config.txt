@@ -1,6 +1,6 @@
-token=NDk3ODg5MzE1NzI5MTc4NjM1.DpmSdw.pnrbUbrZukGtRwj0w0UpqpI-vtk
-owner=469546024839413764
-prefix=1
-game=Type 1play
+token=NDk2NDE0NjY5MDMzMTc3MTA5.Dpu3rg.5F6b1LVaBcywuNPJE-ueMY4gjug
+owner=337457211875917834
+prefix=$
+game=Just Stáy Here , !
 stayinchannel=true
 songinstatus=true
